@@ -1,0 +1,16 @@
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+    <title>Dokwise Icon</title>
+    <!-- Document shape with a folded corner -->
+    <path d="M768,256 L768,896 L256,896 L256,256 L768,256 Z 
+             M768,256 L768,192 L832,256 L768,256 Z" 
+          fill="#E5E7EB" />
+    <!-- Lines representing text in the document -->
+    <line x1="320" y1="352" x2="704" y2="352" stroke="#374151" stroke-width="16" stroke-linecap="round"/>
+    <line x1="320" y1="432" x2="704" y2="432" stroke="#374151" stroke-width="16" stroke-linecap="round"/>
+    <line x1="320" y1="512" x2="704" y2="512" stroke="#374151" stroke-width="16" stroke-linecap="round"/>
+    <line x1="320" y1="592" x2="704" y2="592" stroke="#374151" stroke-width="16" stroke-linecap="round"/>
+    <line x1="320" y1="672" x2="704" y2="672" stroke="#374151" stroke-width="16" stroke-linecap="round"/>
+    <line x1="320" y1="752" x2="704" y2="752" stroke="#374151" stroke-width="16" stroke-linecap="round"/>
+    <!-- Highlight to symbolize focus or importance -->
+    <circle cx="512" cy="512" r="64" fill="#F59E0B"/>
+</svg>
